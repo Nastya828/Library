@@ -4,6 +4,28 @@ Project for library Проект представляет собой CRUD при
 
 Структура проекта электронной библиотеки:
 
+Файл зависимостей пакета проекта и конфигурации при сборке:
+https://github.com/Nastya828/Library-Project/blob/Project1/pom.xml
+
+Репозитории с представлениями:
+https://github.com/Nastya828/Library-Project/tree/Project1/src/main/webapp/WEB-INF/views
+
+Конфигурация Spring:
+https://github.com/Nastya828/Library-Project/tree/Project1/src/main/java/ru/iakimova/springcourse/config
+
+Сущности проекта:
+https://github.com/Nastya828/Library-Project/tree/Project1/src/main/java/ru/iakimova/springcourse/models
+
+DAO классы для связи с БД:
+https://github.com/Nastya828/Library-Project/tree/Project1/src/main/java/ru/iakimova/springcourse/dao
+
+Контроллеры для выполнения методов HTTP протокола
+https://github.com/Nastya828/Library-Project/tree/Project1/src/main/java/ru/iakimova/springcourse/controllers
+
+Класс для проверки уе существующего человека:
+https://github.com/Nastya828/Library-Project/blob/Project1/src/main/java/ru/iakimova/springcourse/util/PersonValidator.java
+
+
 Слайды приложения показаны ниже:
 
 ![IMAGE 2022-11-10 19:43:42](https://user-images.githubusercontent.com/94782753/201107491-99949394-3705-44a2-9c30-b19767fd65f7.jpg)
