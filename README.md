@@ -22,7 +22,7 @@ https://github.com/Nastya828/Library-Project/tree/Project1/src/main/java/ru/iaki
 Контроллеры для выполнения методов HTTP протокола
 https://github.com/Nastya828/Library-Project/tree/Project1/src/main/java/ru/iakimova/springcourse/controllers
 
-Класс для проверки уе существующего человека:
+Класс для проверки уже существующего человека:
 https://github.com/Nastya828/Library-Project/blob/Project1/src/main/java/ru/iakimova/springcourse/util/PersonValidator.java
 
 
